@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.judul{
+    border: 2px dashed red;
+    border-radius: 5px;
+    text-align: center;
+    color:aliceblue;
+}
+.form{
+    color:red;
+    align-items: center;
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
